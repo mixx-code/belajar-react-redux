@@ -1,0 +1,44 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Rizki febriansyah",
+      "nohp": "089636475538"
+    },
+    {
+      "id": 2,
+      "nama": "juva",
+      "nohp": "089636479999"
+    },
+    {
+      "nama": "salsa",
+      "nohp": "087654331223",
+      "id": 3
+    },
+    {
+      "nama": "kiki",
+      "nohp": "098762326323",
+      "id": 4
+    },
+    {
+      "nama": "kucing",
+      "nohp": "09988736473",
+      "id": 5
+    },
+    {
+      "nama": "ayam",
+      "nohp": "9008398433",
+      "id": 6
+    },
+    {
+      "nama": "Ell chan",
+      "nohp": "09786656454534",
+      "id": 7
+    },
+    {
+      "nama": "dewi",
+      "nohp": "097656325633",
+      "id": 8
+    }
+  ]
+}
